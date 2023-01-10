@@ -7,14 +7,14 @@ The goal of this project Music Management System is to make the user happily lis
 
 Talking about the features of the Online Music Site, the user can simply view all the new releases, top 6 songs with rankings, news, featured songs, vote their favorite song, and listen to the song. The users can simply view all the albums and click any one of them to listen their songs. 
 
-#PROBLEM STATEMENT
+# PROBLEM STATEMENT
 
 The aim of this projecct is to create a design and responsive page for music management system where the user can listen to the song, download, see to the list of artist, add karoke etc..,
 
-#AIM AND OBJECTIVES OF THE PROJECT
+# AIM AND OBJECTIVES OF THE PROJECT
 
 Music Management System is a fully functional, flexible and convenientapplication and a user friendly interface which provides a good experience.This paper describes the phases of the design and development and emphasizes the system’s functionality
 
 
 
-                                                                      THANK YOU!!!
+                                                           THANK YOU!!!
